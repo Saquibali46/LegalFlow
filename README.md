@@ -23,18 +23,6 @@ A modern full-stack legal practice management platform designed to streamline la
 
 ---
 
-## 📊 Project Information
-
-| Category | Details |
-|----------|---------|
-| **Project Type** | Full-Stack Web Application |
-| **Status** | Active Development |
-| **Backend** | Spring Boot |
-| **Frontend** | React |
-| **Database** | MySQL |
-| **Authentication** | JWT |
-| **Build Tool** | Maven |
-
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
@@ -45,8 +33,6 @@ A modern full-stack legal practice management platform designed to streamline la
 - [Project Structure](#-project-structure)
 - [Future Enhancements](#-future-enhancements)
 - [Author](#-author)
-
-
 ---
 
 ## 📖 Overview
@@ -54,7 +40,7 @@ A modern full-stack legal practice management platform designed to streamline la
 LegalFlow is a secure, scalable, and role-based legal practice management system built using modern Java backend technologies and a React frontend.
 
 The platform enables advocates, sub-advocates, and clients to collaborate efficiently while maintaining secure access to legal information.
-
+---
 
 ## 📸 Project Showcase
 
@@ -130,6 +116,20 @@ The platform enables advocates, sub-advocates, and clients to collaborate effici
 | **Testing** | Postman |
 | **Version Control** | Git, GitHub |
 | **IDE** | IntelliJ IDEA, VS Code |
+---
+
+## 📊 Project Information
+
+| Category | Details |
+|----------|---------|
+| **Project Type** | Full-Stack Web Application |
+| **Status** | Active Development |
+| **Backend** | Spring Boot |
+| **Frontend** | React |
+| **Database** | MySQL |
+| **Authentication** | JWT |
+| **Build Tool** | Maven |
+---
  
 ## 🔮 Future Enhancements
 
@@ -141,7 +141,6 @@ The platform enables advocates, sub-advocates, and clients to collaborate effici
 - Mobile Application
 - Audit Logs
 - Role Permission Management
-
 ---
 
 ## 👨‍💻 Author
