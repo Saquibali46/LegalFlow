@@ -1,3 +1,4 @@
+
 # ⚖️ LegalFlow
 
 > **Modern Legal Practice Management Platform**
@@ -48,6 +49,13 @@ A modern full-stack legal practice management platform designed to streamline la
 
 ---
 
+## 📖 Overview
+
+LegalFlow is a secure, scalable, and role-based legal practice management system built using modern Java backend technologies and a React frontend.
+
+The platform enables advocates, sub-advocates, and clients to collaborate efficiently while maintaining secure access to legal information.
+
+
 ## 📸 Project Showcase
 
 ### Landing Page
@@ -93,27 +101,6 @@ A modern full-stack legal practice management platform designed to streamline la
 ![Project Structure](assets/diagrams/04-project-structure.png)
 
 ---
-## 🛠️ Technology Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Backend** | Java 21, Spring Boot 3.5 |
-| **Frontend** | React.js, HTML5, CSS3, JavaScript |
-| **Database** | MySQL |
-| **Authentication** | Spring Security, JWT |
-| **ORM** | Spring Data JPA, Hibernate |
-| **Build Tool** | Maven |
-| **Testing** | Postman |
-| **Version Control** | Git, GitHub |
-| **IDE** | IntelliJ IDEA, VS Code |
-
-
-## 📖 Overview
-
-LegalFlow is a secure, scalable, and role-based legal practice management system built using modern Java backend technologies and a React frontend.
-
-The platform enables advocates, sub-advocates, and clients to collaborate efficiently while maintaining secure access to legal information.
-
 
 ## ✨ Key Features
 
@@ -130,6 +117,20 @@ The platform enables advocates, sub-advocates, and clients to collaborate effici
 - 📱 Responsive User Interface
 ---
 
+## 🛠️ Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | Java 21, Spring Boot 3.5 |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript |
+| **Database** | MySQL |
+| **Authentication** | Spring Security, JWT |
+| **ORM** | Spring Data JPA, Hibernate |
+| **Build Tool** | Maven |
+| **Testing** | Postman |
+| **Version Control** | Git, GitHub |
+| **IDE** | IntelliJ IDEA, VS Code |
+ 
 ## 🔮 Future Enhancements
 
 - Admin Dashboard
