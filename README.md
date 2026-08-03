@@ -50,6 +50,7 @@ A modern full-stack legal practice management platform designed to streamline la
 ### Project Folder Structure
 
 ![Project Structure](assets/diagrams/04-project-structure.png)
+
 ---
 
 ## 📖 Overview
