@@ -7,6 +7,51 @@ A modern full-stack legal practice management platform designed to streamline la
 > 🚧 **Project Status:** Under Active Development
 
 ---
+## 📸 Project Showcase
+
+### Landing Page
+
+![Landing Page](assets/landing-page/01-hero-section.png)
+
+---
+
+### Application Preview
+
+| Login | Advocate Dashboard |
+|-------|--------------------|
+| ![](assets/application/01-login-page.png) | ![](assets/application/02-advocate-dashboard.png) |
+
+| Sub-Advocate | Client Dashboard |
+|--------------|------------------|
+| ![](assets/application/03-sub-advocate-dashboard.png) | ![](assets/application/04-client-dashboard.png) |
+
+---
+
+# 🏗️ System Design
+
+## Entity Relationship (ER) Diagram
+
+![ER Diagram](assets/diagrams/01-ER Diagram.png)
+
+---
+
+## System Architecture
+
+![System Architecture](assets/diagrams/02-System Architecture Diagram.png)
+
+---
+
+## Database Relationship Diagram
+
+![Database Relationship](assets/diagrams/03-Database Relationship Diagram.png)
+
+---
+
+## Project Folder Structure
+
+![Project Structure](assets/diagrams/04-Project Folder Structure Diagram.png)
+
+---
 
 ## 📖 Overview
 
@@ -14,7 +59,6 @@ LegalFlow is a secure, scalable, and role-based legal practice management system
 
 The platform enables advocates, sub-advocates, and clients to collaborate efficiently while maintaining secure access to legal information.
 
----
 
 ## ✨ Key Features
 
