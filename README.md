@@ -1,12 +1,55 @@
 # ⚖️ LegalFlow
 
-> **Enterprise Legal Practice Management Platform**
+> **Modern Legal Practice Management Platform**
 
 A modern full-stack legal practice management platform designed to streamline law firm operations through secure authentication, role-based access control, case management, hearing scheduling, document management, and invoicing.
 
 > 🚧 **Project Status:** Under Active Development
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+ > **Note**
+>
+> This repository is a portfolio showcase for the LegalFlow project. It contains project documentation, UI previews, architecture diagrams, and application screenshots. The complete source code is not included in this public repository.
+
 ---
+
+## 📊 Project Information
+
+| Category | Details |
+|----------|---------|
+| **Project Type** | Full-Stack Web Application |
+| **Status** | Active Development |
+| **Backend** | Spring Boot |
+| **Frontend** | React |
+| **Database** | MySQL |
+| **Authentication** | JWT |
+| **Build Tool** | Maven |
+
+## 📑 Table of Contents
+
+- [Overview](#-overview)
+- [Project Showcase](#-project-showcase)
+- [System Design](#-system-design)
+- [Key Features](#-key-features)
+- [Technology Stack](#-technology-stack)
+- [Installation](#-installation)
+- [API Endpoints](#-api-endpoints)
+- [Project Structure](#-project-structure)
+- [Future Enhancements](#-future-enhancements)
+- [Author](#-author)
+
+
+---
+
 ## 📸 Project Showcase
 
 ### Landing Page
@@ -52,6 +95,20 @@ A modern full-stack legal practice management platform designed to streamline la
 ![Project Structure](assets/diagrams/04-project-structure.png)
 
 ---
+## 🛠️ Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | Java 21, Spring Boot 3.5 |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript |
+| **Database** | MySQL |
+| **Authentication** | Spring Security, JWT |
+| **ORM** | Spring Data JPA, Hibernate |
+| **Build Tool** | Maven |
+| **Testing** | Postman |
+| **Version Control** | Git, GitHub |
+| **IDE** | IntelliJ IDEA, VS Code |
+
 
 ## 📖 Overview
 
@@ -73,76 +130,18 @@ The platform enables advocates, sub-advocates, and clients to collaborate effici
 - 💳 Invoice & Payment Tracking
 - 📡 RESTful API Architecture
 - 📱 Responsive User Interface
-
 ---
 
-## 🛠 Tech Stack
-
-### Backend
-
-- Java 21
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- JWT Authentication
-- Maven
-
-### Frontend
-
-- React
-- JavaScript
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- IntelliJ IDEA
-- VS Code
-- Postman
-
----
-
-## 🏗 System Architecture
-
-> Architecture diagram will be added soon.
-
----
-
-## 🗄 Database Design
-
-> ER Diagram and database schema will be added soon.
-
----
-
-## 📸 Screenshots
-
-Project screenshots will be added here.
-
----
-
-## 📡 REST APIs
-
-API documentation will be added here.
-
----
-
-## 🚀 Future Roadmap
+## 🔮 Future Enhancements
 
 - Admin Dashboard
-- Notification System
-- Email Integration
-- Cloud Deployment
-- Advanced Analytics
+- Email Notifications
 - Calendar Integration
-- Multi-Law Firm Support
+- Cloud Deployment
+- Analytics Dashboard
+- Mobile Application
+- Audit Logs
+- Role Permission Management
 
 ---
 
@@ -150,6 +149,8 @@ API documentation will be added here.
 
 **Syed Saquib Ali**
 
-B.Tech Computer Science Engineering
-
 Java Full Stack Developer
+
+📧 Email: saquibali516@gmail.com
+
+🔗 GitHub: https://github.com/Saquibali46
