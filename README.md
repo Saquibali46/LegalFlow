@@ -27,30 +27,29 @@ A modern full-stack legal practice management platform designed to streamline la
 
 ---
 
-# 🏗️ System Design
+## 🏗️ System Design
 
-## Entity Relationship (ER) Diagram
+### Entity Relationship (ER) Diagram
 
-![ER Diagram](assets/diagrams/01-ER Diagram.png)
-
----
-
-## System Architecture
-
-![System Architecture](assets/diagrams/02-System Architecture Diagram.png)
+![ER Diagram](assets/diagrams/01-er-diagram.png)
 
 ---
 
-## Database Relationship Diagram
+### System Architecture
 
-![Database Relationship](assets/diagrams/03-Database Relationship Diagram.png)
+![System Architecture](assets/diagrams/02-system-architecture.png)
 
 ---
 
-## Project Folder Structure
+### Database Relationship Diagram
 
-![Project Structure](assets/diagrams/04-Project Folder Structure Diagram.png)
+![Database Relationship](assets/diagrams/03-database-relationship.png)
 
+---
+
+### Project Folder Structure
+
+![Project Structure](assets/diagrams/04-project-structure.png)
 ---
 
 ## 📖 Overview
