@@ -41,8 +41,6 @@ A modern full-stack legal practice management platform designed to streamline la
 - [System Design](#-system-design)
 - [Key Features](#-key-features)
 - [Technology Stack](#-technology-stack)
-- [Installation](#-installation)
-- [API Endpoints](#-api-endpoints)
 - [Project Structure](#-project-structure)
 - [Future Enhancements](#-future-enhancements)
 - [Author](#-author)
