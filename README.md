@@ -46,7 +46,7 @@ The platform enables advocates, sub-advocates, and clients to collaborate effici
 
 🚀 **Experience LegalFlow in action**
 
-**Application:** https://YOUR-VERCEL-LINK.vercel.app
+**Application:** https://trylegalflow.vercel.app
 
 ### Demo Accounts
 
