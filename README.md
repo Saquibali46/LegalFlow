@@ -26,6 +26,7 @@ A modern full-stack legal practice management platform designed to streamline la
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
+- [Live Demo](#-live-demo)
 - [Project Showcase](#-project-showcase)
 - [System Design](#-system-design)
 - [Key Features](#-key-features)
@@ -41,6 +42,35 @@ LegalFlow is a secure, scalable, and role-based legal practice management system
 
 The platform enables advocates, sub-advocates, and clients to collaborate efficiently while maintaining secure access to legal information.
 ---
+## 🌐 Live Demo
+
+🚀 **Experience LegalFlow in action**
+
+**Application:** https://YOUR-VERCEL-LINK.vercel.app
+
+### Demo Accounts
+
+| Role | Email | Password |
+|------|-------|----------|
+| 👨‍⚖️ Main Advocate | `saquib@gmail.com` | `12345` |
+| 👨‍💼 Sub Advocate | `abdur@gmail.com` | `abdur@123` |
+| 👤 Client | `sarim@gmail.com` | `sarim@123` |
+
+> **Note:** LegalFlow is a role-based legal practice management platform. Each account provides a different dashboard and permissions based on the assigned role.
+
+---
+
+### ✨ Features Available in the Live Demo
+
+- 🔐 JWT Authentication & Secure Login
+- 👨‍⚖️ Main Advocate Dashboard
+- 👨‍💼 Sub Advocate Dashboard
+- 👤 Client Portal
+- 📁 Case Management
+- 📅 Hearing Scheduling
+- 📄 Document Management
+- 💰 Invoice & Payment Management
+- 🔒 Role-Based Access Control
 
 ## 📸 Project Showcase
 
