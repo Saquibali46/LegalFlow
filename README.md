@@ -56,7 +56,9 @@ The platform enables advocates, sub-advocates, and clients to collaborate effici
 | 👨‍💼 Sub Advocate | `abdur@gmail.com` | `abdur@123` |
 | 👤 Client | `sarim@gmail.com` | `sarim@123` |
 
-> **Note:** LegalFlow is a role-based legal practice management platform. Each account provides a different dashboard and permissions based on the assigned role.
+> > **⚠️ Note :**
+> LegalFlow is a role-based legal practice management platform. Each account provides a different dashboard and permissions based on the assigned role.
+> The backend is deployed on a free hosting tier that automatically goes to sleep after periods of inactivity. As a result, the **initial request may take approximately 50–60 seconds** while the server starts. After startup, the application responds at normal speed.
 
 ---
 
